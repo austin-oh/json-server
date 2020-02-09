@@ -6,3 +6,10 @@
  ```bash
  yarn add global json-serverIPAddress
  ```
+
+ ## Run
+
+ - install packages
+ ```bash
+ yarn
+ ```
